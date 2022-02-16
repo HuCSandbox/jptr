@@ -1,3 +1,3 @@
 # jptr
 evdl personal  
-A test directory for sharing a repository.  
+A test repository for sharing.  
